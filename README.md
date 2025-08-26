@@ -53,28 +53,28 @@ It provides crop information, weather forecasting, farm management, and an e-com
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home](./screenshots/1.png)
+![Home](./Screenshots/1.png)
 
 ### 🔹 Login Page
-![Login](./screenshots/3.png)
+![Login](./Screenshots/3.png)
 
 ### 🔹 Weather Forecast
-![Weather](./screenshots/5.png)
+![Weather](./Screenshots/5.png)
 
 ### 🔹 Crop Information
-![Crops](./screenshots/6.png)
+![Crops](./Screenshots/6.png)
 
 ### 🔹 Crop Details
-![Crop Details](./screenshots/7.png)
+![Crop Details](./Screenshots/7.png)
 
 ### 🔹 Products Marketplace
-![Products](./screenshots/8.png)
+![Products](./Screenshots/8.png)
 
 ### 🔹 Farm List
-![Farms](./screenshots/9.png)
+![Farms](./Screenshots/9.png)
 
 ### 🔹 Add New Farm
-![Add Farm](./screenshots/10.png)
+![Add Farm](./Screenshots/10.png)
 
 ---
 
