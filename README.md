@@ -83,4 +83,3 @@ It provides crop information, weather forecasting, farm management, and an e-com
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/agritech.git
-   cd agritech
